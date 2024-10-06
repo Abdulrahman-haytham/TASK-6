@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "01d96bd6-e6d5-4cce-acf7-e641d0143517",
+		"name": "crud coliction",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37418162"
+	},
+	"item": [
+		{
+			"name": "get all posts",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delet post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "edit post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
